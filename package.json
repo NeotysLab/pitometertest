@@ -1,0 +1,17 @@
+{
+  "name": "testpitometer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pitometer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keptn/pitometer": "^1.1.0",
+    "@keptn/pitometer-grader-threshold": "^1.1.0",
+    "@neotys/pitometer-source-neoload": "^0.0.19"
+  }
+}
