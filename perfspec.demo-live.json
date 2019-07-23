@@ -12,8 +12,8 @@
       "grading": {
         "type": "Threshold",
         "thresholds": {
-          "upperSevere": 10,
-          "upperWarning": 15
+          "upperSevere": 100,
+          "upperWarning": 150
         },
         "metricScore": 20
       }
@@ -47,8 +47,8 @@
       "grading": {
         "type": "Threshold",
         "thresholds": {
-          "upperSevere": 4,
-          "upperWarning": 3
+          "upperSevere": 4000,
+          "upperWarning": 3000
         },
         "metricScore": 30
       }

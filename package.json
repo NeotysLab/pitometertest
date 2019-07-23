@@ -12,6 +12,6 @@
   "dependencies": {
     "@keptn/pitometer": "^1.1.0",
     "@keptn/pitometer-grader-threshold": "^1.1.0",
-    "@neotys/pitometer-source-neoload": "^0.0.19"
+    "@neotys/pitometer-source-neoload": "^0.0.27"
   }
 }

@@ -19,7 +19,7 @@ pitometer.addSource(
     new NeoLoadDatasource({
         neoloadapirul: "https://neoload-api.saas.neotys.com",
         neoloadwuploadurl:"https://neoload-api.saas.neotys.com",
-        apiToken: "15304f743f34ca33c458927a40945b7424a2066b95563774"
+        apiToken: "dzedezdezdezd"
         // log: console.log,
     })
 );
